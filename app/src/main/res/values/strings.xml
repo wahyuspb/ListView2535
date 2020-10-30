@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">CustomLV</string>
+=======
+    <string name="app_name">List View</string>
+>>>>>>> Upload
+</resources>
